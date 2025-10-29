@@ -1,9 +1,9 @@
-#  Introduction to Cryptography
+# 🔐 Introduction to Cryptography hii
 Cryptography is the science and art of securing information. 
 
 It ensures that data remains confidential, authentic, and unaltered when stored or transmitted over insecure channels (like the internet).
 
-#  Goals of Cryptography (CIA + A + NR)
+# 🎯 Goals of Cryptography (CIA + A + NR)
 | Goal                | Description                                         |
 | ------------------- | --------------------------------------------------- |
 | **Confidentiality** | Ensure only authorized parties can access the data. |
